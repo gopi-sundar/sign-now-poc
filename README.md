@@ -1,7 +1,9 @@
 # sign-now-poc
 
->node app.js
+>Run
+npm install
+npm start
 
-
-Dev
+>Dev Run
 sudo npm install -g nodemon
+nodemon src/index.js
